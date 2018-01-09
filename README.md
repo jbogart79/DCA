@@ -25,7 +25,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
 - [Mount volumes](https://docs.docker.com/engine/admin/volumes/volumes/)
-- [Add networks, publish ports](https://docs.docker.com/engine/userguide/networking/)
+- [Add networks, publish ports](https://github.com/jbogart79/DCA/blob/master/Networks%20and%20ports.md)
 - Identify the steps needed to troubleshoot a service not deploying
 - Apply node labels to demonstrate placement of tasks
 - Sketch how a Dockerized application communicates with legacy systems
